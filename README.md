@@ -38,3 +38,19 @@ I am a confident, self-learning, and highly adaptive person.
 - **Bachelor of Computer Applications**  
   *PSG College of Arts and Science, Coimbatore*  
   *(2021–2024)*
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **First Prize – Hackathon**  
+  Shri Shakti Institute of Engineering and Technology  
+  *21st March 2025*
+
+- 🏅 **Best Paper Award – International Conference on Computational Intelligence and Communication Technologies**  
+  Dr. N.G.P. Arts and Science College  
+  *3rd January 2025*
+
+- 🥇 **First Prize – Paper Presentation**  
+  KG College of Arts and Science  
+  *22nd February 2025*
