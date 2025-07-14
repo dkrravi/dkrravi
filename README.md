@@ -1,17 +1,15 @@
 <p align="center">
   <strong>Dhanya K R</strong><br>
-  📧 dhanyaravi3010@gmail.com <br>
-  🌐 <a href="https://your-portfolio-link.com">Portfolio</a> |
-  <a href="https://www.linkedin.com/in/your-linkedin/">LinkedIn</a>
+  📧 dhanyafab@gmail.com | 🌐 <a href="https://dhanya30.onrender.com/">Portfolio</a> |  <a href="https://www.linkedin.com/in/dhanya3010">LinkedIn</a>
 </p>
 
 <p align="center">
-  <em>Aspiring Software Developer</em>
+  <em>Software Developer</em>
 </p>
 
 ---
 
-### ✨ Simple Enrolling
+### ✨ About Me!
 
 Postgraduate student in **Master of Computer Science with Data Analytics**.  
 Aspiring to be a **Software Developer** with strong skills in **Java, Python, ReactJS, and SQL**.  
