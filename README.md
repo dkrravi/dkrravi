@@ -38,6 +38,5 @@ I am a confident, self-learning, and highly adaptive person.
 ## 🏆 Achievements
 
 🥇 First Prize in Hackathon at Shri Shakti Institute of Engineering and Technology on 21st March 2025  
-🏅 Best Paper Award at International Conference on Computational Intelligence and Communication Technologies, Dr. N.G.P. Arts and Science College on 3rd January 2025  
 🥇 First Prize in Paper Presentation at KG College of Arts and Science on 22nd February 2025
 
